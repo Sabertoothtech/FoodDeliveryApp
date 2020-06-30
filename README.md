@@ -57,7 +57,7 @@ React-Native CLI has an inbuilt command line interface, which ships with `node.j
 - Email Integration/ Notification
 - Facebook and Google Authentication
 - Multi-language Support
-- Multi-currency Support
+- Multi-currency Support 
 
 ### C] ADMIN-USER FEATURES:
 
