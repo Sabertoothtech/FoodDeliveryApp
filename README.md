@@ -52,6 +52,7 @@ React-Native CLI has an inbuilt command line interface, which ships with `node.j
 - **Settings:** Allows user to make general settings to enable custom search.
 - **Help:** Enables Customer Care service.
 - **Review and Rate** : Enables users to leave ratings and give reviews.
+- **Platform:** Available on both Android & iOS.
 
 ### B] END-USER FEATURES:
 
