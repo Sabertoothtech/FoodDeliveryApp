@@ -1,6 +1,8 @@
 # FoodDeliveryApp
 A fully functioning food delivery application packed with essential and enhanced features that are well tailored with your industrial and product requirements.
 
+![food](https://user-images.githubusercontent.com/52853887/86234805-1ab89300-bbb5-11ea-9bb9-b935259da4fc.gif)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
